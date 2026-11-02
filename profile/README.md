@@ -9,7 +9,7 @@ This research project demonstrated a novel pipeline that fuses animal tracking, 
 The dataset can be used to recreate the visual input that insect eyes will have passed to the animals brain as each animal explored and learned to navigate its complex desert environment.
 
 Related links:  
-- Publication: What do navigating animals see?  [Reconstructing the visual histories of desert ants](https://www.opteran.com)
+- Publication: What do navigating animals see?  [Reconstructing the visual histories of desert ants](https://www.biorxiv.org/content/10.64898/2026.10.22.760929v1)
 - Source code repositories:
   - [Image Aligner](https://github.com/BrainBeatsBrawn/image-aligner)
   - [Ant Eye Mapping and Modelling](https://github.com/BrainBeatsBrawn/scan-to-oces-pipeline)  
